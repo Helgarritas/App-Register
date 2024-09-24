@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "img": "https://example.com/johndoe.jpg",
+    "departament": "IT",
+    "cellphone": "123456789",
+    "status": "active"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "img": "https://example.com/janesmith.jpg",
+    "departament": "HR",
+    "cellphone": "987654321",
+    "status": "inactive"
+  },
+  {
+    "name": "Carlos Pérez",
+    "email": "carlosperez@example.com",
+    "img": "https://example.com/carlosperez.jpg",
+    "departament": "Finance",
+    "cellphone": "1122334455",
+    "status": "active"
+  }
+]
